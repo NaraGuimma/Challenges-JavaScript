@@ -16,7 +16,7 @@ But if the minimum amount was 3, the class wouldn't happen:
 arrivals(mondayArrivals, 3)
 false
 
-Write down the following functions: 1. # arrivals, which tells if the class will take place according to the array of students who entered. 2. #openings, which uses an array with the arrays of students who entered on the other days, and the minimum number of students, and tells which days the classes took place and which did not. For example:
+Write down the following functions: 1. #arrivals, which tells if the class will take place according to the array of students who entered. 2. #openings, which uses an array with the arrays of students who entered on the other days, and the minimum number of students, and tells which days the classes took place and which did not. For example:
 
 openings([studentsSunday, studentsTuesday, studentsFourth], 2)
 [true, false, false]
@@ -41,7 +41,7 @@ Mas se a quantidade mínima fosse 3, a aula não aconteceria:
  acontece(alunosDaSegunda, 3)
 false
 
-Escreva as seguintes funções: 1. # acontece, que diz se a aula sucederá de acordo com o array dos estudantes que entraram. 2. 3 aberturas, que utiliza um array com os arrays dos estudantes que entraram nos outros dias, e a quantidade mínima de estudantes, e diga quais os dias em que as aulas aconteceram e quais não. Por exemplo:
+Escreva as seguintes funções: 1. #acontece, que diz se a aula sucederá de acordo com o array dos estudantes que entraram. 2. #aberturas, que utiliza um array com os arrays dos estudantes que entraram nos outros dias, e a quantidade mínima de estudantes, e diga quais os dias em que as aulas aconteceram e quais não. Por exemplo:
 
 aberturas([alunosDaSegunda, alunosDaTerça, alunosDaQuarta], 2)
 [true, false, false]

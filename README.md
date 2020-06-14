@@ -12,4 +12,6 @@ BRANCHES:
 
 * "Multiplying - Produto"
 
+* "Factorial - Fatorial"
+
 

@@ -1,17 +1,9 @@
-# Challenges-JavaScript
-
-here are some challenges using JavaScript. In each branch you will be able to find different challenges and resolutions. 
-They will be writtien in English and Portuguese. 
+# Factorial - Fatorial 
 
 
+Write a factorial function, which calculates the factorial of a number.
 
-BRANCHES:
-
-
-* "Angry Teacher - Professora Furiosa"
-
-* "Multiplying - Produto"
-
-* "Factorial - Fatorial"
+________________________________________________________________________________________________________________________________________
 
 
+Escreva uma função fatorial, que calcule o fatorial de um número.

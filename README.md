@@ -1,15 +1,19 @@
-# Challenges-JavaScript
-
-here are some challenges using JavaScript. In each branch you will be able to find different challenges and resolutions. 
-They will be writtien in English and Portuguese. 
+# Multiplying - Produto
 
 
 
-BRANCHES:
+We need a multiplying function that receives an array of numbers and returns the multiplication between these numbers.
+
+For example, multiplying([1, 4, 7]) should return 28, which is 1 * 4 * 7. 
+
+Write the multiplying function
+
+_______________________________________________________________________________________________________________________________________
 
 
-* "Angry Teacher - Professora Furiosa"
+Necessitamos uma função produto que receba um array de números e retorne o produto: o resultado de multiplicar todos os elementos entre si.
 
-* "Multiplying - Produto"
+Por exemplo, produto([1, 4, 7]) deve retornar 28, que é 1 * 4 * 7.
 
+Escreva a função produto
 
